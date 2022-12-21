@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455953642701",
+    "project_id": "dostavkabase",
+    "storage_bucket": "dostavkabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455953642701:android:6fbf3ce601f54d2ac96584",
+        "android_client_info": {
+          "package_name": "com.example.proga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455953642701-nnpqbc63o7t0qud5k19k6qq4e61iigc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1R-bptIpv_f1x-4C9AmLFQ5nFMl4jDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455953642701-nnpqbc63o7t0qud5k19k6qq4e61iigc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
